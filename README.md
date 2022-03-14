@@ -84,7 +84,7 @@ O JBMovie é uma plataforma web de listagens e avalições de filmes, onde o usu
 
 - Clone o repositório
 - [Dentro da pasta `backend`] Abra a pasta com o `Spring Tool Suite 4`, através de um projeto maeven já existente;
-- [Dentro da pasta `bandend`] Clique em Re(start) para inicializar o banco local;
+- [Dentro da pasta `backend`] Clique em Re(start) para inicializar o banco local;
 - [Dentro da pasta `frontend`] Instale as dependências com `yarn` ou `npm install`;
 - [Dentro da pasta `frontend`] Inicie o servidor com `yarn start` ou `npm start`;
 
