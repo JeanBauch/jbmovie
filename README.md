@@ -17,7 +17,7 @@
 ## Features
 
 <p align="center">
-  <img alt="LetMeAskGIF" src=".github/images/GIF - letmeask.gif" width="100%">
+  <img alt="jbmovie - home page" src=".github/frontend/homepage.png" width="100%">
 </p>
 
 ### Backend
@@ -30,6 +30,10 @@
 - [x] Utilização da lib `H2` para instância de um banco local;
 - [x] Utilização do `Postgres` como banco principal para prod. Utilizando o pgadmin para adminstração do mesmo;
 - [x] Hospedagem do banco na nuvem, através do `Heroku` implementando conceitos de CI/CD;
+
+<p align="center">
+  <img alt="jbmovie - home page" src=".github/backend/dsmovie-dominio.png" width="80%">
+</p>
 
 ### Frontend
 - [x] Utilização do `React` como framework;
@@ -45,15 +49,6 @@
 - [ ] Tema Dark;
 - [ ] Listagens dos principais filmes em alta, conforme as avialições do filmes;
 - [ ] Autenticação com FireBase Auth;
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="telaMobile" width="16%" src=".github/images/img-01.png">
-  <img align="center" alt="telaMobile" width="16%" src=".github/images/img-02.png">
-  <img align="center" alt="telaMobile" width="16%" src=".github/images/img-03.png">
-  <img align="center" alt="telaMobile" width="16%" src=".github/images/img-04.png">
-  <img align="center" alt="telaMobile" width="16%" src=".github/images/img-05.png">
-  <img align="center" alt="telaMobile" width="16%" src=".github/images/img-06.png">
-</div>
 
 ## ✨ Tecnologias
 
@@ -78,7 +73,13 @@ O JBMovie é uma plataforma web de listagens e avalições de filmes, onde o usu
 
 ## 🔖 Layout
 
+<p align="center">
+  <img alt="jbmovie - home page" src=".github/frontend/homepage.png" width="100%">
+</p>
 
+<p align="center">
+  <img alt="jbmovie - form page" src=".github/frontend/formpage.png" width="100%">
+</p>
 
 ## 🚀 Como executar
 
