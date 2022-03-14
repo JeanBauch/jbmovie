@@ -14,6 +14,11 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p>
 
+<h3>
+  Deploy Frontend: https://jbmovie.netlify.app/;
+  Deploy Backend: https://jean-jbmovie.herokuapp.com/
+</>
+
 ## Features
 
 <p align="center">
@@ -25,8 +30,9 @@
 - [x] Códificação do banco com SprintBoot;
 - [x] Divisão em camadas - `controllers`, `dto`, `entities`, `repositories` e `services`;
 - [x] Modelo em `API Rest` para envio dos dados em JSON para o frontend;
+  - [x] Rotas: [GET]`/movies?size=12&page=0`, [GET]`/movies/2`, [PUT] `/scores`; 
 - [x] Utilização do `JPA` para persistência dos dados;
-- [x] Criação de ambientes de desenvolvimento, um para `dev`, `test` e ``prod;
+- [x] Criação de ambientes de desenvolvimento, um para `dev`, `test` e `prod`;
 - [x] Utilização da lib `H2` para instância de um banco local;
 - [x] Utilização do `Postgres` como banco principal para prod. Utilizando o pgadmin para adminstração do mesmo;
 - [x] Hospedagem do banco na nuvem, através do `Heroku` implementando conceitos de CI/CD;
